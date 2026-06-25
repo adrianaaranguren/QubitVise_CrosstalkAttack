@@ -46,12 +46,4 @@ Accepted at the Quantum Security (QSec) 2025 Workshop.
 
 ## Citation
 
-If you use this repository in academic work, please cite the associated paper.
-
-```bibtex
-@inproceedings{aranguren2025qubitvise,
-  title={QubitVise: Double-Sided Crosstalk Attack in Superconducting Quantum Computers},
-  author={Aranguren Arellano, Adriana and Xie, He and Szefer, Jakub},
-  year={2025}
-}
-```
+A. Aranguren Arellano, H. Xie, and J. Szefer, “QubitVise: Double-Sided Crosstalk Attack in Superconducting Quantum Computers,” accepted at the Quantum Security (QSec) 2025 Workshop, New York, NY, USA, 2025.
