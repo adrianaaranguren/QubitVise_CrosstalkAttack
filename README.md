@@ -1,5 +1,7 @@
 # QubitVise: Double-Sided Crosstalk Attack in Superconducting Quantum Computers
 
+https://caslab.io/publications/arellano2025qubitvise.pdf
+
 QubitVise is a research project investigating security vulnerabilities in multi-tenant superconducting quantum computers. The project introduces a novel **double-sided crosstalk attack**, where malicious quantum circuits placed on both sides of a victim circuit induce interference and alter computation outcomes without direct access to the victim's qubits.
 
 This work was accepted at the **Quantum Security (QSec) 2025 Workshop** and evaluates the attack on cloud-accessible **Rigetti Ankaa-3** quantum hardware through **Amazon Braket**.
